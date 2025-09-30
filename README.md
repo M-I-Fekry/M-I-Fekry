@@ -48,7 +48,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="www.linkedin.com/in/mohamed-ibrahim-297875350">
+  <a href="https://www.linkedin.com/in/mohamed-ibrahim-297875350">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   

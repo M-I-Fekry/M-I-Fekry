@@ -3,14 +3,45 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 </div>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Ibrahim!;+Welcome!;" />
+</div>
 
 <hr>
 
 ### 👋 Hello! I'm **Mohamed Ibrahim Mohamed Fekry** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
-Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improving my skills, and sharing my progress with the community.
+🚀 **Flutter Developer | AI Enthusiast | Tech for Good**
 
 ---
+
+<br>
+
+## 💡 About Me  
+- 👨‍💻 Passionate about building **cross-platform apps** using **Flutter & Dart**  
+- 🧠 Exploring the power of **AI** in accessibility & assistive tech   
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=dart,python,java" />
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,androidstudio,vscode,figma,github" />
+</div>
+
+
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ### 🛠️ Skills & Tools <img src="https://media.giphy.com/media/3o7TKPdUkkbCAVqW4w/giphy.gif" width="30">
 <div align="center">
@@ -29,8 +60,8 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 ---
 
 ### 🏆 Achievements & Certificates <img src="https://media.giphy.com/media/26FPnsRww5Zm4/giphy.gif" width="30">
-- 🎓 Completed 10+ courses in Abu-Hadhoud Roadmap (Programming Advices)  
-- 💡 Solved 400+ programming problems  
+- 🎓 Completed 13+ courses in Abu-Hadhoud Roadmap (Programming Advices)  
+- 💡 Solved 450+ programming problems  
 - 🚀 Able to build real-world projects using clean, scalable, and professional programming practices
 
 ---
@@ -58,6 +89,9 @@ Also, I'm a student in **Abu-Hadhoud Roadmap**. I love building projects, improv
 </div>
 
 ---
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&lines=Always+Learning!;Striving+for+Excellence!;Coding+with+Passion!;Let's+Connect+%F0%9F%91%8D" />
+</div>
 
 ```cpp
 // Focused on mastering the stack
